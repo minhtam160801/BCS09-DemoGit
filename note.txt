@@ -1,0 +1,2 @@
+câu lệnh khỏi tạo local repository
+git init
