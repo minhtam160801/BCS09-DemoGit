@@ -11,5 +11,11 @@ git status
 lệnh tạo ra 1 commit (lịch sử phiên bản)
 git commit -m "nội dung thay đổi"
 
+lệnh đẩy code lên github lần đầu
+git push -u origin (tên nhánh)
+lần 2
+git push
+lệnh lấy code chưa có về
+git pull origin (tên nhánh)
 
 helooooo
