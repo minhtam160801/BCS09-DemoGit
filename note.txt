@@ -11,9 +11,6 @@ git status
 lệnh tạo ra 1 commit (lịch sử phiên bản)
 git commit -m "nội dung thay đổi"
 
-<<<<<<< HEAD
 Thi Here
-=======
 
 helooooo
->>>>>>> 6722b01a265a6073ecf007ac36f31385fa0d8c1b
