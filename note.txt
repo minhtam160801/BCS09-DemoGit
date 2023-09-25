@@ -10,3 +10,5 @@ git status
 
 lệnh tạo ra 1 commit (lịch sử phiên bản)
 git commit -m "nội dung thay đổi"
+
+Thi Here
