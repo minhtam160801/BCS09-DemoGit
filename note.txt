@@ -1,17 +1,29 @@
 câu lệnh khỏi tạo local repository
-git init
+- git init
 
 câu lệnh đẩy các file có sự thay đổi lên staging area
-git add tên file
-git add . (đẩy tất cả lên cùng lúc)
+- git add tên file
+- git add . (đẩy tất cả lên cùng lúc)
 
 kiểm tra các file đang nằm trên staging area
-git status
+- git status
 
 lệnh tạo ra 1 commit (lịch sử phiên bản)
-git commit -m "nội dung thay đổi"
+- git commit -m "nội dung thay đổi"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+lệnh đẩy code lên github lần đầu
+- git push -u origin (tên nhánh)
+lần 2 về sau
+- git push
+lệnh lấy code chưa có về
+- git pull origin (tên nhánh) (cần git add và git commit lại rồi mới git pull)
+
+=======
+<<<<<<< HEAD
+>>>>>>> ece7917470948ad46b97ce65ffb3a2b84cdc7d77
 Thi Here
 =======
 
